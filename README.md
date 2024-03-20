@@ -1,5 +1,5 @@
 # Build and Deploy a React Native App 
-//Application Will Still find Relvent Search Result Even on Spelling Mistake  
+//Apology for Spelling Mistake  
 
 
 https://github.com/amresh012/Job-Shift-Native/assets/73485115/ba12cd5e-fde4-4380-bea0-513ac25f5fa8
